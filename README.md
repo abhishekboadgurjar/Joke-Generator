@@ -59,7 +59,7 @@ This will start the development server, and the application will be running at `
 
 ## Live Demo
 
-You can check out the live demo of the Joke Generator [here](https://github.com/abhishekgurjar-in/joke-generator.git).
+You can check out the live demo of the Joke Generator [here](https://joke-generator-in.netlify.app/).
 
 ## Screenshots
 
