@@ -1,4 +1,4 @@
-![Screenshot 2024-09-08 213745](https://github.com/user-attachments/assets/04d93835-d8fa-4705-b4ca-9ebde6f8f4ff)# Joke Generator Website
+# Joke Generator Website
 
 ## Introduction
 
@@ -61,7 +61,7 @@ This will start the development server, and the application will be running at `
 
 You can check out the live demo of the Joke Generator [here](https://github.com/abhishekgurjar-in/joke-generator.git).
 
-##Screenshots
+## Screenshots
 
 ![Screenshot 2024-09-08 213745](https://github.com/user-attachments/assets/b4874802-6b4d-49ea-b4e0-70205283a277)
 
