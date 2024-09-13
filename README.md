@@ -66,7 +66,6 @@ You can check out the live demo of the Joke Generator [here](https://joke-genera
 ![Screenshot 2024-09-08 213745](https://github.com/user-attachments/assets/b4874802-6b4d-49ea-b4e0-70205283a277)
 
 
-
 ## Conclusion
 
 This simple Joke Generator project is a great way to practice React fundamentals, including state management and API requests. It also serves as an example of how to create interactive web applications with minimal code.
