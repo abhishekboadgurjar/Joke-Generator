@@ -49,7 +49,7 @@ The project is structured as follows:
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/abhishekgurjar-in/joke-generator.git
+git clone https://github.com/abhishekboadgurjar/joke-generator.git
 cd joke-generator
 npm install
 npm start
@@ -76,4 +76,4 @@ This simple Joke Generator project is a great way to practice React fundamentals
 
 ### Author
 
-**Abhishek Gurjar** is a web developer passionate about building interactive and responsive web applications. You can follow his work on [GitHub](https://github.com/abhishekgurjar-in).
+**Abhishek Gurjar** is a web developer passionate about building interactive and responsive web applications. You can follow his work on [GitHub](https://github.com/abhishekboadgurjar).
